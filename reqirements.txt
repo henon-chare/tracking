@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+python-dotenv
+pydantic
+email-validator
+requests
+httpx
+urllib3
+python-whois
+dnspython
+fastapi-mail
+reportlab
